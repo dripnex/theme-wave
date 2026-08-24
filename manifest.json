@@ -1,0 +1,7 @@
+{
+  "id": "theme-wave",
+  "name": "Wave",
+  "version": "0.1.0",
+  "description": "Ink and paper, after dark.",
+  "main": "dist/index.js"
+}
